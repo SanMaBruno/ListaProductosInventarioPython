@@ -1,2 +1,2 @@
-# ListaProductosInventarioPython
-Lista de productos en python de inventario 
+# Inventario_Python
+inventario Python 
